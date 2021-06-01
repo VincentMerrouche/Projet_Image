@@ -22,32 +22,3 @@ cv2.imshow('monImage',masked)
 cv2.waitKey(0)
 cv2.imshow('monImage',colorImage)
 cv2.waitKey(0)
-
-
-
-
-
-
-
- 
-
-# Display the Original Image
-
-colorImage.show()
-
- 
-
-# Display the Image rotated by 45 degrees
-
-rotated.show()
-
- 
-
-# Display the Image rotated by 90 degrees
-
-
-
-
-
-
-
