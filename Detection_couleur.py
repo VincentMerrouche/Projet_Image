@@ -9,3 +9,6 @@ Chemin="Images_Resistance/resistance_1.png"
 
 Image_Couleur=open(Chemin)
 Image_Forme= cv2.imread(Chemin) 
+cv2.imshow('myimage',Image_Forme)
+cv2.waitKey(2000)
+cv2.destroyImage('myImage')
